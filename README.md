@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itubman
-- 👀 I’m interested in basic digital electronics
+- 👀 I’m interested in digital electronics
 - 🌱 I’m currently learning raspberry pi
 
 
